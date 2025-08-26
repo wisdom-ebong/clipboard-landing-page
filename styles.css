@@ -757,4 +757,11 @@ footer {
         margin: 20px;
     }
 
+    .features p {
+        text-align: left;
+        max-width: 600px;
+        width: 80%;
+        margin-bottom: 10px;
+    }
+
 }
